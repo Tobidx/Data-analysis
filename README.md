@@ -1,2 +1,2 @@
 # Data-analysis
-Data analysis with R
+An exploratory analysis on the factors that affect the academic performance of students using R.
